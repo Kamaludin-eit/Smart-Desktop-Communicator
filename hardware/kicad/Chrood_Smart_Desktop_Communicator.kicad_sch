@@ -1,0 +1,215 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "19df3bfd-911e-43e6-85e5-a5163a003cd2")
+	(paper "A4")
+	(lib_symbols)
+	(text "SMART DESKTOP COMMUNICATOR"
+		(exclude_from_sim no)
+		(at 135.89 21.844 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "01b47bed-e064-4e77-bd9a-f603b3ef3dac")
+	)
+	(sheet
+		(at 22.86 92.71)
+		(size 74.93 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1d13f04c-536b-45b7-b77d-7f1296c8d943")
+		(property "Sheetname" "User-Interface"
+			(at 22.86 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "User-Interface.kicad_sch"
+			(at 22.86 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Chrood_Smart_Desktop_Communicator"
+				(path "/19df3bfd-911e-43e6-85e5-a5163a003cd2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 39.37)
+		(size 81.28 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3526c545-f702-4a04-8d79-daf88c9e13b1")
+		(property "Sheetname" "Ethernet"
+			(at 113.03 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Ethernet.kicad_sch"
+			(at 113.03 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Chrood_Smart_Desktop_Communicator"
+				(path "/19df3bfd-911e-43e6-85e5-a5163a003cd2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 39.37)
+		(size 74.93 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "40a1fa8c-f3cd-4e39-a5c8-c8ff829e064a")
+		(property "Sheetname" "Power_Supply"
+			(at 22.86 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supply.kicad_sch"
+			(at 22.86 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Chrood_Smart_Desktop_Communicator"
+				(path "/19df3bfd-911e-43e6-85e5-a5163a003cd2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 209.55 39.37)
+		(size 64.77 41.91)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "791c8a1e-2f97-45ef-9a64-9d9077b4e475")
+		(property "Sheetname" "Audio-Interface"
+			(at 209.55 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Audio-Interface.kicad_sch"
+			(at 209.55 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Chrood_Smart_Desktop_Communicator"
+				(path "/19df3bfd-911e-43e6-85e5-a5163a003cd2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 113.03 92.71)
+		(size 81.28 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cf1be031-989f-428d-ba70-bdf04b4d5647")
+		(property "Sheetname" "Microcontroller"
+			(at 113.03 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 113.03 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Chrood_Smart_Desktop_Communicator"
+				(path "/19df3bfd-911e-43e6-85e5-a5163a003cd2"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
